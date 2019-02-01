@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548873970 source:c:\users\igorg\desktop\p1\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
